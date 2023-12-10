@@ -8,6 +8,9 @@ A CLI tool written in Node.js. Takes in a project's package.json file path and r
 - Run command: 'node main.js -f {file path to package.json file}'
 - Observe command line output
 
+- Example CLI output: 
+![alt text](https://imgur.com/a/4vLGjHQ)    
+
 ## Roadmap / Wishlist items
 
 - Have script run as alias / make script easier to run
