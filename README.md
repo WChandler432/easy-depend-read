@@ -1,8 +1,12 @@
 # easy-depend-read
 A CLI tool written in Node.js. Takes in a project's package.json file path and returns a list of deprecated / out of date dependencies. It will also recommend dependency updates where applicable. 
 
-# Startup instructions
+# Startup and usage instructions
 
+- Clone repository
+- cd into repo folder
+- Run command: 'node main.js -f {file path to package.json file}'
+- Observe command line output
 
 ## Work History
 
