@@ -6,5 +6,4 @@ A npm package dependency ready written in Node.js. Takes in a project's package.
 
 ## Work History
 
-- 12/10/2023:
-      - Created repository
+- 12/10/2023: Created repository
