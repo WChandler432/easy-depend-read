@@ -6,4 +6,4 @@ A CLI tool written in Node.js. Takes in a project's package.json file path and r
 
 ## Work History
 
-- 12/10/2023: Created repository
+- 12/10/2023: Created repository, added basic version checking and upgrade warnings for major version changes. Currently grabbing package info from [https://npms.io/]
