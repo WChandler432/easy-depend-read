@@ -16,4 +16,4 @@ A lightweight CLI tool written in Node.js. Takes in a project's package.json fil
 
 ## Work History
 
-- 12/10/2023: Created repository, added basic version checking and upgrade warnings for major version changes. Currently grabbing package info from [https://npms.io/]
+- 12/10/2023: Created repository, added basic version checking and upgrade warnings for major version changes. Originally grabbed package info from [https://npms.io/], but since that api was discovered to be deprecated, switched to calling the npm registry directly. 
