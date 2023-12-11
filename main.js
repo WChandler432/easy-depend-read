@@ -22,7 +22,6 @@ const processInput = () => {
 const getPackageInfo = async(packageName) => {
     const res = await fetch(`https://registry.npmjs.com/-/v1/search?text=${packageName}&size=20`);
     const data = await res.json();
-    console.log(data.objects[0]);
     return data.objects[0];
 }
 
