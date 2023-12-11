@@ -11,7 +11,7 @@ A lightweight CLI tool written in Node.js. Takes in a project's package.json fil
 ## Roadmap / Wishlist items
 
 - Have script run as alias / make script easier to run
-- Get most up to date package info (npms has out of date info on some packages)
+- ~~Get most up to date package info (npms has out of date info on some packages)~~  (Replaced npms with npm registry api - 12/10/23)
 - Deprecation warnings
 
 ## Work History
